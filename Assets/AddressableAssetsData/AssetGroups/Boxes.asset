@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Boxes
+  m_EditorClassIdentifier: 
+  m_GroupName: Boxes
+  m_GUID: a954eec10af1d984bb7ff76739ba5272
+  m_SerializeEntries:
+  - m_GUID: 3c998ad3487f0384f95fcda776a78710
+    m_Address: Assets/Prefabs/WoodenBoxes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c25ea79a848351448ba6a61f688b7ed
+    m_Address: Assets/Prefabs/MetalBoxes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9cc172c5136d69c47b92240a325f0122, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 846a6e87363d6af4bb0285eba43ba63a, type: 2}
+    - {fileID: 11400000, guid: 25211817455eb1549bcc60b3954aeaec, type: 2}
